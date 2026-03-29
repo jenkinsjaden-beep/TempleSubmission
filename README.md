@@ -1,7 +1,6 @@
 # 🏛 Temple Visit Request System
 
-![Script](https://img.shields.io/badge/Google-AppsScript-yellow) ![Status](https://img.shields.io/badge/Status-Active-green) ![License](https://img.shields.io/badge/License-MIT-blue)
-
+![Script](https://img.shields.io/badge/Google-AppsScript-yellow) ![Status](https://img.shields.io/badge/Status-Active-green) 
 **Author:** Elder Jenkins  
 **Created:** March 2026  
 **Purpose:** Helps missionaries request temple visits. Automatically sends emails to the president for approval, updates the sheet, and notifies missionaries.
